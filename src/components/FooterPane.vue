@@ -5,8 +5,8 @@
       <div class="flex items-center flex-col md:flex-row">
         <div>
           <img class="mb-2" src="../assets/speedo-icon.svg">
-          <p class="title text-yellow">IMPROVE YOUR DEVELOPMENT EXPERIENCE</p>
-          <h3 class="header text-white">Start searching with CodePilot </h3>
+          <p class="title text-yellow">SAVE TIME</p>
+          <h3 class="header text-white">Start leveraging datahook.io</h3>
         </div>
         <div class="md:ml-32">
         </div>
