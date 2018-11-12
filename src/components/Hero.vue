@@ -7,7 +7,7 @@
             Connect your app life
           </h1>
           <p class="paragraph">
-            Connect and automate your apps, end the need for re-entry, and free up your day.
+            Connect and automate your apps, end the need for data re-entry, and free up your day.
           </p>
 
           <div class="flex">
