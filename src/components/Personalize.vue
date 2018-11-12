@@ -13,13 +13,13 @@
         </div>
         <div class="w-full md:w-2/5 pt-8 md:pl-4">
           <img class="mb-2" src="../assets/case-icon.svg">
-          <p class="title text-indigo">Personalize your experience.</p>
-          <h3 class="header">Create Developer Profiles</h3>
+          <p class="title text-indigo">Turn actions into data entry.</p>
+          <h3 class="header">Actions</h3>
           <p class="paragraph">
-            Create Developer Profiles based on the projects you’re working on. Our <strong>ML-powered Ranker</strong> will analyze and rank the results based on relevancy for your current profile.
+            <strong>Stop</strong> logging in and updating data in multiple apps, let datahook.io automate events to move data to right where it needs to be..
           </p>
           <p class="paragraph">
-            Get results for technologies and tools that match your current project.
+            Near instant data updates across all your apps and platforms.
           </p>
         </div>
       </div>
