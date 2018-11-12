@@ -4,10 +4,10 @@
       <div class="flex mb-4 items-center flex-col-reverse md:flex-row">
         <div class="w-full md:w-2/5 text-white">
           <h1 class="header">
-            The Search Tool for Software Developers
+            Connect your app life
           </h1>
           <p class="paragraph">
-            Search multiple sources at once and find solutions to your coding problems. Code examples, issues, questions, docs – everything at your fingertips.
+            Connect and automate your apps, end the need for re-entry, and free up your day.
           </p>
 
           <div class="flex">
