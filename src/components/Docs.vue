@@ -20,9 +20,9 @@
     <div class="docs-box mx-4 md:w-1/3 p-4 md:p-8 pb-0 md:pb-0 bg-indigo text-white rounded-lg">
       <img class="mb-2" src="../assets/folder-icon.svg">
       <p class="title text-yellow">Supports all the apps you use.</p>
-      <h3 class="header">Hook up all your apps</h3>
+      <h3 class="header">Connect data and events</h3>
       <p class="paragraph">
-        Connect data and events across all of your apps, <strong>Take Control</strong> of your data, and end tedious re-entry.
+        Connect data and events leveraging <strong>serverless functions</strong> in a simple to use, deploy, and manage framework.
       </p>
       <p class="paragraph">
         Powered by <strong>datahook.io</strong>.
