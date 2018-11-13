@@ -4,15 +4,15 @@
       <div class="flex mb-4 items-center flex-col-reverse md:flex-row">
         <div class="w-full md:w-2/5 text-white">
           <h1 class="header">
-            Connect your app life
+            Integration Framework for Serverless deployment
           </h1>
           <p class="paragraph">
-            Connect and automate your apps, end the need for data re-entry, and free up your day.
+            Leverage serverless good-ness to integrate your app experiences.
           </p>
 
           <div class="flex">
             <a
-              href="https://github.com/CodePilotai/codepilot"
+              href="https://github.com/datahookio/hooker"
               target="_blank"
               class="button button-large button-secondary mr-2 ml-0"
             >
