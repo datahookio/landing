@@ -5,15 +5,15 @@
       <div class="w-full md:w-1/2">
         <img class="mb-2" src="../assets/sun-icon.svg">
         <p class="title text-pink">Your sources. Combined.</p>
-        <h3 class="header">Search Custom Sources</h3>
+        <h3 class="header">Event patterns and more</h3>
         <p class="paragraph">
-          Pick from a list of suggested Custom Sources curated for the technologies and tools from your <strong>Developer Profile</strong>.
+          All the bells and whistles you need to get the most power from events and Enterprise Integration Patterns that take your integration game to the next level..
         </p>
         <p class="paragraph">
-          You can also add your own websites to search through!
+          Use datahook.io to manage data within your existing serverless functions too!
         </p>
         <p class="paragraph">
-          Whenever you make a search, you will be able to access to the search results on those websites using our <strong>built-in browser</strong>.
+          Build, deploy, and manage <strong>serverless integration</strong>.
         </p>
       </div>
       <div class="w-full md:w-1/2 text-right md:ml-8 mb-8">
