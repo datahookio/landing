@@ -5,23 +5,23 @@
       <div class="flex items-center flex-col md:flex-row">
         <div>
           <img class="mb-2" src="../assets/speedo-icon.svg">
-          <p class="title text-yellow">SAVE TIME</p>
-          <h3 class="header text-white">Start leveraging datahook.io</h3>
+          <p class="title text-yellow">Build robust FaaS implemntations</p>
+          <h3 class="header text-white">datahook.io</h3>
         </div>
         <div class="md:ml-32">
         </div>
       </div>
     </div>
   </div>
-  <div class="w-full relative bg-grey-lighter">
+<!--  <div class="w-full relative bg-grey-lighter">
     <div class="container mx-auto pt-8 px-4">
       <div class="flex items-center justify-around flex-col md:flex-row">
         <img class="w-4/5 md:w-2/5 mb-8" src="../assets/startup-school-banner.png" alt="Code intent results">
-      </div>
+      </div> -->
     </div>
     <div class="px-4">
       <div class="container mx-auto pt-4 pb-6 items-center flex">
-        <img src="../assets/codepilot-logo-dark.png" alt="datahook.io logo" class="h-10">
+        <img src="../assets/datahook.io%20-%20Logo%20Design%20%20-%20final_Artboard%203.svgg" alt="datahook.io logo" class="h-10">
         <span class="uppercase text-grey-dark pt-2 pl-4">– All rights reserved</span>
       </div>
     </div>
