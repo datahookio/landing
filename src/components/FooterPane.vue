@@ -20,7 +20,7 @@
     </div>
     <div class="px-4">
       <div class="container mx-auto pt-4 pb-6 items-center flex">
-        <img src="../assets/datahook.io---Social-Media---5.png" alt="datahook.io logo" class="h-10">
+<!--        <img src="../assets/datahook.io---Social-Media---5.png" alt="datahook.io logo" class="h-10"> -->
         <span class="uppercase text-grey-dark pt-2 pl-4">– All rights reserved 2018</span>
       </div>
     </div>
