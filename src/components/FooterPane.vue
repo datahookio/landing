@@ -6,7 +6,7 @@
         <div>
           <img class="mb-2" src="../assets/speedo-icon.svg">
           <p class="title text-yellow">Build robust FaaS implemntations</p>
-          <h3 class="header text-white">datahook.io</h3>
+         <!-- <h3 class="header text-white">datahook.io</h3> -->
         </div>
         <div class="md:ml-32">
         </div>
