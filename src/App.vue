@@ -13,11 +13,11 @@
 </template>
 
 <script>
-import Hero from './components/Hero.vue'
+// import Hero from './components/Hero.vue'
 // import Nav from './components/Nav.vue' 
 // import Intents from './components/Intents.vue' 
 // import Filters from './components/Filters.vue' 
-import Personalize from './components/Personalize.vue'
+// import Personalize from './components/Personalize.vue'
 import FooterPane from './components/FooterPane.vue'
 // import Docs from './components/Docs.vue' 
 // import CustomSources from './components/CustomSources.vue' 
@@ -26,11 +26,11 @@ import FooterPane from './components/FooterPane.vue'
 export default {
   name: 'App',
   components: {
-    Hero,
+//  Hero,
 //  Nav,
 //   Intents,
 //  Filters,
-    Personalize,
+//  Personalize,
     FooterPane,
 //  Docs,
 //  CustomSources,
