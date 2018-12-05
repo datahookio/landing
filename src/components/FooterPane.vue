@@ -16,12 +16,13 @@
   <div class="w-full relative bg-grey-lighter">
     <div class="container mx-auto pt-8 px-4">
       <div class="flex items-center justify-around flex-col md:flex-row">
+      <img src="../assets/datahook.io---Social-Media---5.png" alt="datahook.io logo" class="h-80">
       </div> 
     </div>
     <div class="px-4">
       <div class="container mx-auto pt-4 pb-6 items-center flex">
 <!--        <img src="../assets/datahook.io---Social-Media---5.png" alt="datahook.io logo" class="h-10"> -->
-        <span class="uppercase text-grey-dark pt-2 pl-4">– All rights reserved 2018</span>
+        <span class="uppercase text-grey-dark pt-2 pl-4">All rights reserved 2018</span>
       </div>
     </div>
   </div>
