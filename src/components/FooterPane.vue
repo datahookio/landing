@@ -16,7 +16,6 @@
   <div class="w-full relative bg-grey-lighter">
     <div class="container mx-auto pt-8 px-4">
       <div class="flex items-center justify-around flex-col md:flex-row">
-        <img class="w-4/5 md:w-2/5 mb-8" src="../assets/datahook.io---Social-Media---5.png" alt="datahook.io">
       </div> 
     </div>
     <div class="px-4">
